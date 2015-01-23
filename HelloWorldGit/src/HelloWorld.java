@@ -15,4 +15,11 @@ public class HelloWorld {
 		System.out.println("Terceira entrada para t");
 	}
 	
+	public boolean isClose() {
+		return false;
+	}
+	
+	/*
+	 * alterado o código
+	 */
 }

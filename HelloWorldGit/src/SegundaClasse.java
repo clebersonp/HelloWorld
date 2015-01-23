@@ -11,6 +11,10 @@ public class SegundaClasse {
 		this.segundaClasseParaTeste = segundaClasseParaTeste;
 	}
 	
+	public boolean isOpen() {
+		return true;
+	}
+	
 	
 	
 }

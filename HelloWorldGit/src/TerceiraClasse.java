@@ -10,4 +10,8 @@ public class TerceiraClasse {
 		this.testandoTerceiraClasse = testandoTerceiraClasse;
 	}
 
+	public void teste() {
+		
+	}
+	
 }
