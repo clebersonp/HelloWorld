@@ -12,6 +12,7 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		System.out.println("Hello World com Git");
 		System.out.println("Segunda mensagem para teste");
+		System.out.println("Terceira entrada para teste");
 	}
 	
 }
